@@ -1,0 +1,6 @@
+const catalogo = [
+    {
+        "titulo": "titulo",
+        "arquivo": "chas/001.jpg"
+    },
+];
